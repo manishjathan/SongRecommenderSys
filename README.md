@@ -1,2 +1,2 @@
 # SongRecommenderSys
-![Flow Diagram](FlowDiagram.jpg)
+![Flow Diagram](RecommenderFlowDiagram.jpg)
