@@ -6,8 +6,6 @@ from tqdm import tqdm
 import pandas as pd
 import pickle
 
-# pprint library is used to make the output look more pretty
-
 #mongodb://18.225.33.219:27017
 
 def connectToDb(mongoUrl):
